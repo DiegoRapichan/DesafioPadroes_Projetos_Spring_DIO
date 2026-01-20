@@ -4,3 +4,5 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
+
+Projeto visa a explicação e o entendimento utilizando exemplos, da utilização do Spring.
